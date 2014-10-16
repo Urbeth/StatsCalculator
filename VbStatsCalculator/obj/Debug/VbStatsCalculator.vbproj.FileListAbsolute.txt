@@ -1,0 +1,10 @@
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\bin\Debug\VbStatsCalculator.dll
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\bin\Debug\VbStatsCalculator.pdb
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\bin\Debug\VbStatsCalculator.xml
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\obj\Debug\VbStatsCalculator.Resources.resources
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\obj\Debug\GenerateResource.read.1.tlog
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\obj\Debug\GenerateResource.write.1.tlog
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\obj\Debug\VbStatsCalculator.dll
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\obj\Debug\VbStatsCalculator.xml
+D:\Progamming\CsStatsCalculator\VbStatsCalculator\obj\Debug\VbStatsCalculator.pdb

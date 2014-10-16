@@ -1,0 +1,5 @@
+D:\Progamming\CsStatsCalculator\CsStatsCalculator\bin\Debug\CsStatsCalculator.dll
+D:\Progamming\CsStatsCalculator\CsStatsCalculator\bin\Debug\CsStatsCalculator.pdb
+D:\Progamming\CsStatsCalculator\CsStatsCalculator\obj\Debug\ResolveAssemblyReference.cache
+D:\Progamming\CsStatsCalculator\CsStatsCalculator\obj\Debug\CsStatsCalculator.dll
+D:\Progamming\CsStatsCalculator\CsStatsCalculator\obj\Debug\CsStatsCalculator.pdb

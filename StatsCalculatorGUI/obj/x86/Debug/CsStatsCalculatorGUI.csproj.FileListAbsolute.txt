@@ -1,0 +1,11 @@
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\bin\Debug\StatsCalculatorGUI.exe
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\bin\Debug\StatsCalculatorGUI.pdb
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\obj\x86\Debug\StatsCalculatorGUI.Form1.resources
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\obj\x86\Debug\StatsCalculatorGUI.Properties.Resources.resources
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\obj\x86\Debug\StatsCalculatorGUI.exe
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\obj\x86\Debug\StatsCalculatorGUI.pdb
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\bin\Debug\CsStatsCalculator.dll
+D:\Progamming\CsStatsCalculator\StatsCalculatorGUI\bin\Debug\CsStatsCalculator.pdb
